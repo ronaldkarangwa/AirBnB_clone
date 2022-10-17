@@ -1,9 +1,4 @@
-* {
-	margin: 0;
-	padding: 0;
-}
-
-p {
-	position: relative;
-	top: 21px;
+body{
+   padding: unset;
+   margin: unset;
 }

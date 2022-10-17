@@ -1,16 +1,10 @@
-footer {
-    background-color: #FFFFFF;
-	border-top: 1px solid #CCCCCC;
-    height: 60px;
-    width: 100%;
-    position: fixed;
-    left: 0;
+footer{
+    height: 60px; width: 100%;
+    background: white;
+    border-top: 1px solid #CCCCCC;
+    position: absolute;
     bottom: 0;
-    text-align: center;
-
-}
-
-footer p {
-	position: relative;
-	top: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center
 }
